@@ -4,11 +4,19 @@ http://docs.docker.jp/engine/examples/nodejs_web_app.html
 
 こちら参考にやってみたらハマるところ大量にあったのでメモ
 
-## 以下のようにファイルを用意
+## 準備
+
+### Dockerのインストール
+
+https://www.docker.com/
+
+インストーラを使ってインストール
+
+### 以下のようにファイルを準備する
+
 
 
 ## 以下を実行
-
 
 ### 1. ビルドする
 
